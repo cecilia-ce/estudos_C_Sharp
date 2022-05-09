@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\bin\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioBanco\obj\Debug\netcoreapp3.1\ExercicioBanco.genruntimeconfig.cache

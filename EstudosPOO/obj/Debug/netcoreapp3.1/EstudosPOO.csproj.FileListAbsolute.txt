@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\bin\Debug\netcoreapp3.1\EstudosPOO.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\bin\Debug\netcoreapp3.1\EstudosPOO.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\bin\Debug\netcoreapp3.1\EstudosPOO.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\bin\Debug\netcoreapp3.1\EstudosPOO.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\bin\Debug\netcoreapp3.1\EstudosPOO.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\bin\Debug\netcoreapp3.1\EstudosPOO.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EstudosPOO\obj\Debug\netcoreapp3.1\EstudosPOO.genruntimeconfig.cache
