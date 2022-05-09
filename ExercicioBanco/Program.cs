@@ -15,13 +15,14 @@ namespace ExercicioBanco
             Console.Write("Haverá depósito inicial (s/n)? ");
             char opcao = char.Parse(Console.ReadLine());
 
-            Conta c = new Conta();
+            Conta c;
 
-            if(opcao == 's')
+            if(opcao == 's' || opcao == 'S')
             {
                 Console.Write("Digite um valor de depósito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 c = new Conta(numConta, titular, depositoInicial);
+                Console.WriteLine();
                 Console.WriteLine("Dados da conta: ");
                 Console.WriteLine(c);
             }
@@ -32,13 +33,13 @@ namespace ExercicioBanco
                 Console.WriteLine(c);
             }
 
+            Console.WriteLine();
             Console.Write("Digite um valor para depósito:");
             double valorDepositado = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             c.Depositar(valorDepositado);
             Console.WriteLine("Dados da conta atualizados: ");
             Console.WriteLine(c);
-            Console.WriteLine("--------------------------------------");
-            Console.WriteLine("--------------------------------------");
+            Console.WriteLine();
             Console.Write("Digite um valor para saque: ");
             double valorSacado = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             c.Sacar(valorSacado);

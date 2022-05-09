@@ -8,23 +8,16 @@ namespace ExercicioBanco
         public string Titular { get; set; }
         public double Saldo { get; private set; }
 
-        public Conta()
-        {
-
-        }
-
         public Conta(int numero, string nome)
         {
             Numero = numero;
             Titular = nome;
-            Saldo = 0.0;
+            Saldo = 0.0; 
         }
 
-        public Conta(int numero, string nome, double saldo) 
+        public Conta(int numero, string nome, double depositoInicial) : this(numero, nome)
         {
-            Numero = numero;
-            Titular = nome;
-            Saldo = saldo;
+            Depositar(depositoInicial);
         }
 
         public void Depositar(double valorDepositado)
@@ -34,7 +27,7 @@ namespace ExercicioBanco
 
         public void Sacar(double valorSacado)
         {
-            Saldo = Saldo - valorSacado - 5.0;
+            Saldo -= valorSacado + 5.0;
         }
 
         public override string ToString()

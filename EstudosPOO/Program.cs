@@ -9,8 +9,7 @@ namespace EstudosPOO
         {
 
             //exercício 1: produtos de um estoque
-            
-            
+            /*        
             Console.WriteLine("Entre com os dados do produto:");
             Console.Write("Nome: ");
             string nome = Console.ReadLine();
@@ -37,8 +36,8 @@ namespace EstudosPOO
 
             p.Nome = "T";
             Console.WriteLine(p.Nome);
-            
-            
+            */
+
 
             //EXERCÍCIO 2: ler os valores da largura e altura de um retângulo. Mostrar na tela o valor de sua área, perímetro e diagonal
             /*
@@ -82,6 +81,17 @@ namespace EstudosPOO
             double valorReais = ConversorDeMoeda.Conversor(cotacao, dolares);
             Console.WriteLine("Valor a ser pago em reais: " + valorReais.ToString("F2", CultureInfo.InvariantCulture));
             */
+
+            //INICIALIZANDO E CRIANDO STRUCT 
+
+            Point p;   // como ele é um tipo valor, basta atribuir os valores pra X e Y. Não precisa fazer o "new" como acontece com as classes na hora de instanciar o objeto.
+            p.X = 10;  // mas o tipo struct também aceita o comando "new".
+            p.Y = 20;
+            
+
+            Console.WriteLine(p);
+       
+
         }
     }
 }
