@@ -40,6 +40,8 @@ namespace ExercicioMatrizes
                     if (matriz[i, j] == num)
                     {
                         Console.WriteLine($"Posição: {i},{j} ");
+
+                        //resolver essa parte
                         if (matriz[i, j - 1] != 0)
                         {
                             Console.WriteLine($"Esquerda: {matriz[i, j - 1]}");
