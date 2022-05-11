@@ -146,15 +146,65 @@ namespace EstudosPOO
             Console.WriteLine(s1);
             */
 
-            List<string> list = new List<string>(); //criou uma lista vazia. Porém a linguagem C# já permite que se crie uma lista, instancie e já coloque elementos nela.
-            List<string> list2 = new List<string> { "Maria", "José", "Kleber", "Otaviano", "João", "Jaciara" }; //criando lista e já atribuindo valores para ela. 
+            //LISTAS
+            //List<string> list = new List<string>(); //criou uma lista vazia. Porém a linguagem C# já permite que se crie uma lista, instancie e já coloque elementos nela.
+            //List<string> list2 = new List<string> { "Maria", "José", "Kleber", "Otaviano", "João", "Jaciara" }; //criando lista e já atribuindo valores para ela. 
 
             //Desvantagem da Lista é que, de modo geral, o acesso aos elementos é sequencial. Entretanto, as implementações de listas são otimizadas, uma vez que o acesso dela vai ser
-            //parecido com o acesso do vetor. 
+            //parecido com o acesso do vetor.
 
 
+            //MATRIZES
 
+            //declarando uma matriz
+            double[,] matriz = new double[2,3];
+            Console.WriteLine(matriz.Length); //fala quantos elementos a matriz tem no total
+            Console.WriteLine(matriz.Rank); //fala a primeira dimensão da matriz, ou seja, fala a quantidade de linhas.
+            Console.WriteLine(matriz.GetLength(0));//indica a quantidade de elementos na primeira dimensão representada pelo 0 
+            Console.WriteLine(matriz.GetLength(1));//indica a quantidade de elementos na segunda dimensão representada pelo 1
 
+            //exercício resolvido matriz
+
+            Console.WriteLine("Digite um número: ");
+            int n = int.Parse(Console.ReadLine());
+            int[,] mat = new int[n, n];
+
+            Console.WriteLine("Digite os números da matriz:");
+            for (int i=0; i < n; i++)
+            {          
+                string[] numeros = Console.ReadLine().Split(' ');
+
+                for (int j=0; j < n; j++)
+                {  
+                    mat[i, j] = int.Parse(numeros[j]);
+                }
+            }
+
+            
+            Console.WriteLine("DIAGONAL DA MATRIZ:");
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write(mat[i, i] + " ");
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("NÚMEROS NEGATIVOS:");
+            int contador = 0;
+            for (int i=0; i<n; i++)
+            {
+                for(int j = 0; j < n; j++)
+                {
+                    if(mat[i,j] < 0)
+                    {
+                        contador++;
+                        Console.Write(mat[i, j] + " ");
+                    }
+                }
+            }
+            Console.WriteLine();
+            Console.Write("TOTAL DE NÚMEROS NEGATIVOS: ");
+            Console.WriteLine(contador);
         }
     }
 }

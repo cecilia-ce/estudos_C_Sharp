@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\bin\Debug\netcoreapp3.1\ExercicioMatrizes.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioMatrizes\obj\Debug\netcoreapp3.1\ExercicioMatrizes.genruntimeconfig.cache
