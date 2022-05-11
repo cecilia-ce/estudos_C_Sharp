@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\bin\Debug\netcoreapp3.1\ExercicioVetores.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\bin\Debug\netcoreapp3.1\ExercicioVetores.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\bin\Debug\netcoreapp3.1\ExercicioVetores.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\bin\Debug\netcoreapp3.1\ExercicioVetores.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\bin\Debug\netcoreapp3.1\ExercicioVetores.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\bin\Debug\netcoreapp3.1\ExercicioVetores.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioVetores\obj\Debug\netcoreapp3.1\ExercicioVetores.genruntimeconfig.cache

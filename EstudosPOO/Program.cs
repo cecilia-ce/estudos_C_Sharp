@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Collections.Generic; //namespace usado para poder utilizar as listas (List)
 
 namespace EstudosPOO
 {
@@ -83,14 +84,76 @@ namespace EstudosPOO
             */
 
             //INICIALIZANDO E CRIANDO STRUCT 
-
+            /*
             Point p;   // como ele é um tipo valor, basta atribuir os valores pra X e Y. Não precisa fazer o "new" como acontece com as classes na hora de instanciar o objeto.
             p.X = 10;  // mas o tipo struct também aceita o comando "new".
             p.Y = 20;
             
-
             Console.WriteLine(p);
-       
+            */
+
+            //VETORES E ARRANJOS
+            /*
+            Console.WriteLine("Digite um número:");
+            int n = int.Parse(Console.ReadLine());
+            double[] alturas = new Double[n];
+            double soma = 0;
+            for(int i = 0; i < n; i++)
+            {
+                Console.WriteLine("Digite uma altura:");
+                alturas[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                soma += alturas[i];
+            }
+
+            double media = soma / n;
+            Console.WriteLine("A média das alturas é: " + media.ToString("F2", CultureInfo.InvariantCulture));
+            */
+            /*
+            Console.WriteLine("Digite um número:");
+            int numero = int.Parse(Console.ReadLine());
+            Produto2[] produtos = new Produto2[numero];
+
+
+            for(int i=0; i<numero; i++)
+            {
+                Console.Write("Nome do produto: ");
+                string nome = Console.ReadLine();
+                Console.Write("Preco do produto: ");
+                double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                produtos[i] = new Produto2(nome, preco);
+            }
+
+            double soma = 0.0;
+            for(int i = 0; i<numero; i++)
+            {
+                soma += produtos[i].Preco;
+            }
+
+            double media = soma / numero;
+
+            Console.WriteLine("PREÇO MÉDIO: " + media.ToString("F2", CultureInfo.InvariantCulture));
+
+            foreach(Produto2 prod in produtos)
+            {
+                Console.WriteLine(prod.Nome);
+                Console.WriteLine(prod.Preco);
+            }
+            */
+
+            //MODIFICADOR DE PARÂMETRO >> quando você pode receber um número variado de parâmetro que você desconhece, pode utilizar o "params" da seguinte forma:
+            /*
+            int s1 = Calculator.Soma(1, 2, 8, 9, 4, 5);
+            Console.WriteLine(s1);
+            */
+
+            List<string> list = new List<string>(); //criou uma lista vazia. Porém a linguagem C# já permite que se crie uma lista, instancie e já coloque elementos nela.
+            List<string> list2 = new List<string> { "Maria", "José", "Kleber", "Otaviano", "João", "Jaciara" }; //criando lista e já atribuindo valores para ela. 
+
+            //Desvantagem da Lista é que, de modo geral, o acesso aos elementos é sequencial. Entretanto, as implementações de listas são otimizadas, uma vez que o acesso dela vai ser
+            //parecido com o acesso do vetor. 
+
+
+
 
         }
     }
