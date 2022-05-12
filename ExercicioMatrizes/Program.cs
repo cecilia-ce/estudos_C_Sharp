@@ -41,23 +41,24 @@ namespace ExercicioMatrizes
                     {
                         Console.WriteLine($"Posição: {i},{j} ");
 
-                        //resolver essa parte
-                        if (matriz[i, j - 1] != 0)
+                       
+                        if (j > 0)
                         {
+                       
                             Console.WriteLine($"Esquerda: {matriz[i, j - 1]}");
                         }
 
-                        if (matriz[i, j + 1] != 0)
+                        if (j < n - 1)
                         {
                             Console.WriteLine($"Direita: {matriz[i, j + 1]}");
                         }
 
-                        if (matriz[i - 1, j] != 0)
+                        if (i > 0)
                         {
                             Console.WriteLine($"Cima: {matriz[i - 1, j]}");
                         }
 
-                        if (matriz[i + 1, j] != 0)
+                        if (i < m - 1)
                         {
                             Console.WriteLine($"Baixo: {matriz[i + 1, j]}");
                         }
