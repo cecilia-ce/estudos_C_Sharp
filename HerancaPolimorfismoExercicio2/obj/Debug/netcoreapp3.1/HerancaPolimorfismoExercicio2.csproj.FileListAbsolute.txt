@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio2\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio2.genruntimeconfig.cache

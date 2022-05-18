@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\bin\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerancaPolimorfismoExercicio\obj\Debug\netcoreapp3.1\HerancaPolimorfismoExercicio.genruntimeconfig.cache
