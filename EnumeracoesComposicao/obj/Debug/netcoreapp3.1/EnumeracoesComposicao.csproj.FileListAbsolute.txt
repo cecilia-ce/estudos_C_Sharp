@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\bin\Debug\netcoreapp3.1\EnumeracoesComposicao.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\bin\Debug\netcoreapp3.1\EnumeracoesComposicao.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\bin\Debug\netcoreapp3.1\EnumeracoesComposicao.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\bin\Debug\netcoreapp3.1\EnumeracoesComposicao.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\bin\Debug\netcoreapp3.1\EnumeracoesComposicao.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\bin\Debug\netcoreapp3.1\EnumeracoesComposicao.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\EnumeracoesComposicao\obj\Debug\netcoreapp3.1\EnumeracoesComposicao.genruntimeconfig.cache

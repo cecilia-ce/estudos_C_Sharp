@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\bin\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\bin\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\bin\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\bin\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\bin\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\bin\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\ExercicioDemoStringBuilder\obj\Debug\netcoreapp3.1\ExercicioDemoStringBuilder.genruntimeconfig.cache

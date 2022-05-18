@@ -155,7 +155,7 @@ namespace EstudosPOO
 
 
             //MATRIZES
-
+            /*
             //declarando uma matriz
             double[,] matriz = new double[2,3];
             Console.WriteLine(matriz.Length); //fala quantos elementos a matriz tem no total
@@ -205,6 +205,15 @@ namespace EstudosPOO
             Console.WriteLine();
             Console.Write("TOTAL DE NÚMEROS NEGATIVOS: ");
             Console.WriteLine(contador);
+            */
+
+            DateTime data1 = DateTime.UtcNow;
+            DateTime data2 = DateTime.Now;
+            Console.WriteLine(data1);
+            Console.WriteLine(data2);
+            TimeSpan t1 = new TimeSpan(0, 1, 30);
+            Console.WriteLine(t1);
+            Console.WriteLine(t1.Ticks);
         }
     }
 }

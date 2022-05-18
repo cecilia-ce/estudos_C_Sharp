@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\bin\Debug\netcoreapp3.1\Exercicio2EnumComp.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\bin\Debug\netcoreapp3.1\Exercicio2EnumComp.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\bin\Debug\netcoreapp3.1\Exercicio2EnumComp.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\bin\Debug\netcoreapp3.1\Exercicio2EnumComp.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\bin\Debug\netcoreapp3.1\Exercicio2EnumComp.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\bin\Debug\netcoreapp3.1\Exercicio2EnumComp.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\Exercicio2EnumComp\obj\Debug\netcoreapp3.1\Exercicio2EnumComp.genruntimeconfig.cache

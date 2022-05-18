@@ -1,0 +1,14 @@
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.AssemblyInfo.cs
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\bin\Debug\netcoreapp3.1\HerançaEPolimorfismo.exe
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\bin\Debug\netcoreapp3.1\HerançaEPolimorfismo.deps.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\bin\Debug\netcoreapp3.1\HerançaEPolimorfismo.runtimeconfig.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\bin\Debug\netcoreapp3.1\HerançaEPolimorfismo.runtimeconfig.dev.json
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\bin\Debug\netcoreapp3.1\HerançaEPolimorfismo.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\bin\Debug\netcoreapp3.1\HerançaEPolimorfismo.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.dll
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.pdb
+C:\Users\cecilia.dutra\source\repos\EstudosPOO\HerançaEPolimorfismo\obj\Debug\netcoreapp3.1\HerançaEPolimorfismo.genruntimeconfig.cache
